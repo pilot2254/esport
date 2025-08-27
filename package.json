@@ -2,6 +2,29 @@
   "name": "redfox-esport",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "description": "Website for Team RedFox",
+  "keywords": [
+    "website",
+    "nextjs",
+    "tailwindcss",
+    "esport",
+    "react"
+  ],
+  "homepage": "https://github.com/redfox-studios/esport",
+  "bugs": {
+    "url": "https://github.com/redfox-studios/esport/issues",
+    "email": "dev@redfox-studios.org"
+  },
+  "author": {
+    "name": "RedFox Studios",
+    "email": "dev@redfox-studios.org",
+    "url": "https://github.com/redfox-studios/esport"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redfox-studios/esport.git"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
